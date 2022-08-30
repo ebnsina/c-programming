@@ -147,4 +147,6 @@ Temporary Items
 # Ignore code-workspaces
 *.code-workspace
 
+CMakeLists.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,macos,visualstudiocode
